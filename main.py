@@ -1,6 +1,6 @@
 X = 20
 
 if (X == 10):
-    print("X is 10")
+    print("Hello World")
 else:
-    print("X is not 10")
+    print("Not Hello World")
